@@ -1,0 +1,8 @@
+@import "reset.css";
+h1{
+  font-size: 24px;
+  font-family: monospace;
+}
+li{
+  padding-right: 10px;
+}
