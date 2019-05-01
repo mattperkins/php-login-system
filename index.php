@@ -2,4 +2,4 @@
 
 <h1>PHP Login System</h1>
 
-<?php $content = ob_get_clean(); include_once("partials/master.php"); ?>
+<?php $content = ob_get_clean(); include_once("master-view.php"); ?>
