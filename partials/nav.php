@@ -1,8 +1,11 @@
-<?php
-$navLinks = ["Home", "About", "Login"];
+<?php $navLinks = array("Home", "About", "Login"); ?>
 
-foreach($navLinks as $navLink) {
-  echo "<li>$navlink</li>";
+<nav><ul>
+<?php 
+foreach ($navLinks as $navLink) {
+  echo "<li>$navLink</li>";
 }
 ?>
+
+</ul></nav>
 
