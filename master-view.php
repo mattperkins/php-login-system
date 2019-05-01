@@ -13,6 +13,6 @@ include_once("partials/header.php");
 <?php echo $content; ?>
 
 
-</div><!-- end container -->
-
 <?php fileIfPartial("partials/footer.php"); ?>
+
+</div><!-- end container -->
